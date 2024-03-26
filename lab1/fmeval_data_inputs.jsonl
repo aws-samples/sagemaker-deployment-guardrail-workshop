@@ -1,0 +1,3 @@
+{"answers":"SELECT COUNT(ArtistId) AS ArtistCount FROM Artist WHERE Name like 'Adam%';","knowledge_category":"SQL","question":"How many artists whose name starts with 'Adam'?"}
+{"answers":"SELECT COUNT(DISTINCT Album.AlbumId) AS total_albums FROM Album;","knowledge_category":"SQL","question":"how many unique albums are there?"}
+{"answers":"SELECT e.FirstName, COUNT(DISTINCT c.customerid) AS total_customers FROM customer c JOIN employee e ON c.supportrepid = e.employeeId where e.FirstName='Jane'", "knowledge_category":"SQL","question":"How many customers do employee with first name of 'Jane' has?"}

@@ -13,4 +13,4 @@ The use cases can be found in the following:
 **Lab 3** - This lab focuses on enabling MLOps engineers to simplify CI/CD deployment for updating a model. Using a fully managed deployment option supported in [SageMaker Deployment Guardrail](https://docs.aws.amazon.com/sagemaker/latest/dg/deployment-guardrails.html), this lab walks through the steps for managing model updates using Canary deployment option. 
 
 ## Getting Started
-Please refer to this [workshop studio](https://studio.us-east-1.prod.workshops.aws/preview/ef2ee096-275b-4c34-8ce0-1e85ea5e77c0/builds/17fe5211-2ead-401e-af3f-82e0680d53c0/en-US) for detailed instructions on how to get started.
+Please refer to this [workshop studio](https://catalog.us-east-1.prod.workshops.aws/workshops/ef2ee096-275b-4c34-8ce0-1e85ea5e77c0/en-US) for detailed instructions on how to get started.
